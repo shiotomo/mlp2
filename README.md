@@ -9,6 +9,8 @@
 ```
 .
 ├── README.md
+├── activation_function // 活性化関数について
+│   └── activation_function.py
 ├── install.sh
 └── perceptron // パーセプトロンについて
     ├── multiple_perceptron.py
