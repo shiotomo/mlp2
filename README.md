@@ -9,10 +9,16 @@
 ```
 .
 ├── README.md
-├── activation_function // 活性化関数について
+├── activation_function
 │   └── activation_function.py
 ├── install.sh
-└── perceptron // パーセプトロンについて
-    ├── multiple_perceptron.py
-    └── perceptron.py
+├── perceptron
+│   ├── multiple_perceptron.py
+│   └── perceptron.py
+└── sandbox
+    └── socket
+        ├── client.py
+        └── server.py
 ```
+
+なお、sandbox内のコードは、直接機械学習には関係ないが大事だと思ったプログラムを格納していく。
